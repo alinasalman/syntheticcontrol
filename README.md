@@ -1,4 +1,4 @@
-## Causal Inference and Synthetic Controld for Evaluating Policy Impact on Conflict Resolution 
+## Causal Inference and Synthetic Control for Evaluating Policy Impact on Conflict Resolution 
 
 This repository contains the Synthetic Control Method (SCM) implementation and analysis for causal inference. SCM is widely used to estimate the effect of an intervention or treatment when randomized control trials are not feasible. This method constructs a synthetic version of the treated unit as a weighted combination of control units.
 
